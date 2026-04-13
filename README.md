@@ -164,7 +164,7 @@ apple.com
 ```
 The result will show up all the details.
 
-## 9️⃣ Reverse Image Search
+## 9️ Reverse Image Search
 # 9️⃣ Tools: Google Image
 Reverse image search will let us know:
 
